@@ -1,0 +1,22 @@
+body{
+    background-color: darkslategray;
+border: 100px;
+height: 500px;
+width: 800px;
+border-radius: 20px;
+
+
+}
+.CONTENT{
+    background: fixed;
+    background-color: aquamarine;
+    border-radius: 80px;
+    text-align: center;
+    font-size: 40px;
+}
+.EMAIL{
+    background-color: aqua;
+}
+.password{
+    background-color: cadetblue;
+}
